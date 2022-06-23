@@ -1,0 +1,30 @@
+{
+    "name": "UMA",
+    "logoURI": "https://umaproject.org/assets/images/UMA_square_red_logo_circle.png",
+    "keywords": ["defi", "uma", "yield"],
+    "timestamp": "2020-11-23T01:40:34.305Z",
+    "tokens": [
+      {
+        "chainId": 1819 ,
+        "address": "0xdE960b4c41bC0802d6e27488c765877b3E6b3237",
+        "name": "KID",
+        "symbol": "KID",
+        "decimals": 18
+      },
+      {
+        "chainId": 1819 ,
+        "address": "0x869DD7E0c0EeB8f00E4baF0357B3FF05e9776eA1",
+        "name": "MKID",
+        "symbol": "MKID",
+        "decimals": 18
+      },
+      {
+        "chainId": 1819 ,
+        "address": "0xb9164670a2f388d835b868b3d0d441fa1be5bb00",
+        "name": "WCUBE",
+        "symbol": "WCUBE",
+        "decimals": 18
+      }
+    ],
+    "version": { "major": 0, "minor": 3, "patch": 0 }
+  }
